@@ -1,0 +1,1 @@
+﻿package com.scripts.lives{	import flash.display.Sprite;	import frog;		public class life extends Sprite	{		public var myfrog:frog;		public function life():void		{			myfrog = new frog;			addChild(myfrog);		}	}}

@@ -1,0 +1,1 @@
+﻿package com.scripts.scoreBoard{	import flash.text.*;	import flash.display.Sprite;	import textHolder;		public class namelist extends Sprite	{		public var genericTextField:textHolder = new textHolder(); 				public function namelist():void		{			addChild(genericTextField);		}	}}
